@@ -1,2 +1,2 @@
 # KGIS
-Knowledge graph for industry security
+This isKnowledge graph for industry security, If anyone want to join this project, Please contact me and send email to canonical.cs@gmail.com
